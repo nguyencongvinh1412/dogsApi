@@ -1,0 +1,167 @@
+[
+    {
+    "picture": "https://images.foody.vn/res/g86/855082/prof/s640x400/foody-upload-api-foody-mobile-chan-ga-sa-ot-jpg-181206101415.jpg",
+    "name": "Miu Miu",
+    "address": "83 Hoàng Kế Viêm, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+    "Rating": "4.5",
+    "menu": ["Chân gà sả ớt", "Nem Chua rán", "Ram cuốn cải", "Hồ Lô"],
+    "Contact": "0824510046",
+    "Opened": "09:00",
+    "Closed": "23:00",
+    "Comment": ["1.0 - Nước mắm quá mặn, mua 3 phần ram cuốn cải mà cho 1 tí rau sống , k đủ ăn 1 phần, k có 1 lát dưa leo ,dưa*** ram thì dở tệ hại", "4.4 - Đặt 1 hủ gà ăn mùi vị k thấm thía, nước lèo lạt nhách. Đc nước chấm ngon", "4.2 - Chân gà ngâm nước muối hả trời, không có mùi sả hay tắc gì cả, trắng chạch mặn đắng, nhờ có bì nước chấm cứu vãn xíu."]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g100001/1000000066/prof/s640x400/foody-upload-api-foody-mobile-12-200422091506.jpg",
+    "name": "Quán Ăn Phương Mập",
+    "address": "14 An Nhơn 9, P. Mỹ An, Quận Sơn Trà, Đà Nẵng",
+    "Rating": "4.5",
+    "menu": ["Pepsi- 7Up", "Xôi Gà Quay Sốt Phomai"],
+    "Contact": "0824510046",
+    "Opened": "09:30",
+    "Closed": "22:00",
+    "Comment": [""]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g98/978214/prof/s640x400/foody-upload-api-foody-mobile-banh-canh-xuong-cha-191108183136.jpg",
+    "name": "Bánh Canh Thu - Hẻm 166 Hùng Vương",
+    "address": "166 Hùng Vương (Đầu Hẻm), Quận Hải Châu, Đà Nẵng",
+    "Rating": "4.5",
+    "menu": ["Bánh canh chả trứng", "Bánh canh xương chả trứng", "Bánh mỳ"],
+    "Contact": "0824510046",
+    "Opened": ["06:30", "13:30"],
+    "Closed": ["10:00", "17:30"],
+    "Comment": [""]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g75/749233/prof/s640x400/foody-upload-api-foody-mobile-tho-jpg-180611090514.jpg",
+    "name": "Cơm Chiên 73 - Đệ Nhất Cơm Thố",
+    "address": "107 Lý Thái Tông, Quận Thanh Khê, Đà Nẵng",
+    "Rating": "4.5",
+    "menu": ["Cơm thố xá xíu", "Cơm thố bò", "Cơm chiên Dương Châu"],
+    "Contact": "0824510046",
+    "Opened": "09:00",
+    "Closed": "20:30",
+    "Comment": ["Ngon-sạch-rẻ", "Quán ruột của mình đây,chưa bao giờ thất vọng về hộp cơm cho bữa trưa,gà chiên giòn,thấm gia vị,rất ngon,cơm ko bị ngấm dầu,có dưa chua ăn kèm nên ko bị ngán,có thêm ít cơm chiên giòn ăn vui miệng lắm,sẽ ủng hộ quán dài dài", "Ăn ở đây nhiều lần rồi nhưng lần này quá thất vọng . Mỡ quá là mỡ . Thịt heo lên giá thì có thể tăng giá tiền chứ đừng bỏ mỡ k như v chứ . Ngồi ăn cơm không luôn í 😪😪"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g99/981358/prof/s640x400/foody-upload-api-foody-mobile-c__media_temp-_-food-191204145412.jpg",
+    "name": "Xôi Lá Việt - Hoàng Diệu",
+    "address": "525 Hoàng Diệu, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",
+    "Rating": 8.4,
+    "menu": ["Xôi thập cẩm thịt", "Xôi vò Bông - phi", "Xôi nếp trắng bông - phi", "Xôi gà xé trứng cút"],
+    "Contact": "0824510046",
+    "Opened": "06:00",
+    "Closed": "21:00",
+    "Comment": ["ít khi ăn xôi mà thấy deal 11k nên đặt thử, rẻ nhưng vẫn chất lượng. hộp xôi ú nụ nguyên cái đùi gà, xôi mềm dẻo ko cứng. Mọi người nên ăn thử",  "Không còn gì để chê từ hình thức cho đến khẩu vị. Đúng kiểu ngon bổ rẻ nhiều lại còn đẹp ❤️❤️",  "Sạch", "Mình đặt 2 phần xôi vò, nhưng hạt xôi ko có độ ẩm & ko thơm (khô &ko có mùi đặc trưng của xôi vò). Có lẽ nếp ngâm lâu, nên ăn xong bị chua ruột."]
+    },
+    {
+    "picture": "https://www.foody.vn/da-nang/video/bento-delichi-com-ga-xoi-mam-toi-xoi-mo-hai-chau-39834",
+    "name": "Bento Delichi - Cơm Gà Xối Mắm Tỏi & Xối Mỡ - Hải Châu",
+    "address": "46A Đầm Rong 2, Quận Hải Châu, Đà Nẵng",
+    "Rating": "8.3",
+    "menu": ["Cơm gà xối mắm Tỏi", "Cơm gà sốt cay", "Cơm gà sốt me", "Cơm gà xối mỡ", "Cơm gà + Canh ăn kèm"],
+    "Contact": "0824510046",
+    "Opened": "09:30",
+    "Closed": "21:30",
+    "Comment": ["Cơm ngon , thơm và dẻo kèm theo thịt gà được làm rất là điều gia vị Mình đặt lúc nào cũng phải 3 lần trong một tuần vì bị ghiền quán này", "1 phần 27k và 1 phần 48k. Gà không ngon. Đồ ăn kèm còn bên có bên không. Giảm giá 50% có nghĩa là phần ăn giảm 50%???? Quán kinh doanh tốt ghê. Mình không dám quay lại.", "Đợt trước mình có mua ở đây 5 phần mang về, các loại sốt ở đây khá hợp với gia đình mình. Đặc biệt là sốt tiêu xanh, vị này lạ lạ, recommend mọi người nên thử cho biết nè. 👍👍👍"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g11/100499/prof/s640x400/foody-upload-api-foody-mobile-9-200701152218.jpg",
+    "name": "Ăn Vặt - Trường Kim Đồng - Trần Bình Trọng",
+    "address": "Kiệt 92 Trần Bình Trọng (Đối Diện 87 Trần Bình Trọng), Quận Hải Châu, Đà Nẵng",
+    "Rating": "6.4",
+    "menu": ["Xoài Lắc", "Bánh tráng cuốn", "Xoài mắm"],
+    "Contact": "0824510046",
+    "Opened": "09:00",
+    "Closed": "22:00",
+    "Comment": ["Xoài mắm đang giảm còn 10k công nhận ngon rẻ, mắm nhức nách", "Đi ăn như đi xin, thái độ phục vụ quá tệ đưa đồ ăn như dằn mặt khách đến ăn 10 lần thì như 1 ( đồ ăn được mà thái độ phục vụ như v cũng không muốn ăn )", "Mình không hiểu quán này buôn bán kiểu gì nữa, ăn cũng bỏ tiền ra mua chớ đâu phải xin ăn đâu mà thái độ buôn bán kì quá vậy chủ thì quát khách buôn bán cái kiểu không tôn trọng khách hàng thì dù có ngon mấy cũng không ai thèm ăn nữa đâu"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g104/1031444/prof/s640x400/foody-upload-api-foody-mobile-foody-upload-api-foo-200622134613.jpg",
+    "name": "Bún Đậu Mắm Tôm Phất Lộc - Trưng Nữ Vương",
+    "address": "528 Trưng Nữ Vương, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+    "Rating": "",
+    "menu": ["Bún đậu thập cẩm", "Bún đậu đặc biệt", "Bún đậu mắm tôm", "Bún đậu thịt", "Bún đậu đặc biệt mẹt khổng lồ"],
+    "Contact": "0824510046",
+    "Opened": "10:15",
+    "Closed": "22:00",
+    "Comment": [""]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g71/704307/prof/s640x400/foody-upload-api-foody-mobile-img_5717-190306150429.jpg",
+    "name": "Bánh Mì Phô Mai Đà Nẵng & Drink",
+    "address": "366/9 Hùng Vương, Quận Thanh Khê, Đà Nẵng",
+    "Rating": "7.6",
+    "menu": ["Bông lan trứng muối", "Bông lan ruốc siêu sốt", "Bông lan trứng muối mix khô bò", "bò xé cay"],
+    "Contact": "0824510046",
+    "Opened": "09:00",
+    "Closed": "20:00",
+    "Comment": ["Lần thứ 2 ăn và chưa thất vọng bao g Rẻ và ngon max luôn á Combo 3 món có 51k mà đáng lắm", "Mình order hộp bánh bltm mini, đúng từ mini vì siêu nhỏ, hình thức nhỏ gọn như thế này thì rất thích hợp cho những lúc buồn miệng muốn ăn chút đồ vặt thì rất hợp lí, là người thích ăn phần cốt bánh đế mỏng cho nên rất ưng, ăn mềm mịn tan trong miệng cảm giác không gây ngán khi nhìn vào bánh, sốt phô mai beo béo rất ngậy vị, sốt trứng vừa phải, dăm bông shop rải vào phần bánh rất hào phóng ngập tràn hết hộp. Nhược điểm là cốt bánh có thể giảm bớt dược độ ngọt nữa thì rất hoàn hảo luôn 👌🏻", "Lúc trước mình hay đặt bánh mì phomai 18k 1 hộp ở đây. Hôm đó thấy chạy deal 15k trên Now mình mới đặt thử bánh mì pho mai loại que với 1 hộp bánh tráng trộn sốt*** Bánh tráng trộn 15k mà đầy ắp bánh tráng với topping luôn . Ăn ngon mà no kinh khủng . Có điều mình đặt sốt chua không đặt sốt cay thì lại thấy cay toét cả miệng luôn . Không biết có phải quán nhầm không . Bánh mì phomai dạng que thì cũng giống bánh mì pho ai bình thường thôi có điều phủ thêm lớp sốt với bò khô ở trên . Phomai ở trong béo béo ngọt ngọt, ăn là biết không phải phomai xịn nhưng với tầm giá đó thì ok chứ không tệ đâu"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g2/12804/prof/s640x400/foody-upload-api-foody-mobile-btn-jpg-180326173601.jpg",
+    "name": "Quán Xuân - Bún Thịt Nướng",
+    "address": "469 Hải Phòng, Quận Thanh Khê, Đà Nẵng",
+    "Rating": "6.2",
+    "menu": ["Bánh ướt thịt luộc", "Cơm gà xé", "Bánh ướt thịt nướng", "Bánh ướt ram", "Bún mắm heo luộc", "Bún thịt nướng"],
+    "Contact": "0824510046",
+    "Opened": "07:00",
+    "Closed": "21:30",
+    "Comment": ["Vừa mua 2 tô đem về mà mở ra tô đc có miếng thịt chút ét, đen thui nhìn thấy nản mà vẫn cố nuốt vì tô tận 25k, buôn bán kiểu j thế ko biết, ko bao h ăn ở đây thêm lần nào nữa", "Dù bán đồ ngon, nhưng thái độ phục vụ của quán làm mình rất không hài lòng, cả nhân viên lẫn chủ quán, mọi người thấy quán thay nhân viên xoành xoạch là hiểu. Thời gian chờ món cũng lâu, đồ nhiều dầu mỡ.", "Đặt hai tô bún thịt nướng và cả hai tô đều rõ mùi ôi thiu khó chịu . Việc này là không thể chấp nhận được. Nếu khách lỡ ăn vài miếng mà bị ngộ độc rồi quán có chịu trách nhiệm được ko?", "Thái độ nhân viên phục vụ như ông bà nội họ vậy đó. Đứa mô đứa nấy ngồi bấm đt. Mình gọi thì gắt gỏng. Khổ"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g11/107257/prof/s640x400/foody-mobile--e1e067f8715eebe5861-192-636143000228890295.jpg",
+    "name": "Maru Food & Drinks - Món Ăn Hàn Quốc",
+    "address": "K18/10/06 Trần Bình Trọng, Quận Hải Châu, Đà Nẵng",
+    "Rating": "7.2",
+    "menu": ["Mỳ Tương đen", "Bánh gạo cay truyền thống", "Bánh gạo lắc phô mai", "Khoai tây lắc phô mai", "Canh rong biển", "Phô mai que"],
+    "Contact": "0824510046",
+    "Opened": "11:00",
+    "Closed": "21:30",
+    "Comment": ["Quán yêu thichd của mình, ngon và sạch sẽ, phục vụ cực chu đáo. Love ❤️", "Mình có mua về 1 phần cơm trộn hàn quốc và một phần cơm cuộn chiên. Quán đóngbgois cẩn thận cho đồ ăn kèm đầy đủ. Đồ ăn đưa về đến nhà vẫn còn độ nóng 1 phần cơm trộn vừa đóng gói nhìn nhỏ nhỏ xinh xinh nhưng ăn thì vua no với kimpab chiên đều các mặt . Giá cũng hợp lý chỉ có 25k kim bab mà đc 6-7 viên ăn vừa no . Coem trộn đây giá cũng rẻ chỏ coa 30k 1 phần. Quán này chuyên làm nhuengx món ăn vặt hàn quốc bán đồ ăn khá ngon", "Ăn mì tương đen nhiều quán rồi mà quán này là tệ nhất á. Vị nhân nhạt nhẽo vô cùng, k biết có quên nêm nếm không, đậu thì mềm mềm, bở bở, thịt cắt bé xíu, khá khô. Mình ăn k được luôn, phải bắc bếp lên thêm gia vị vô để ăn cho đậm đà á.", "Giá bình dân sinh viên,món nào cũng ngon,không gian mát mẻ"]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g74/732280/prof/s640x400/foody-upload-api-foody-mobile-time-jpg-180413103518.jpg",
+    "name": "Pizza Time - 77 Đống Đa",
+    "address": "77 Đống Đa, Quận Hải Châu, Đà Nẵng",
+    "Rating": "8.1",
+    "menu": ["Meat lover's pizza", "Mì Ý sốt bò bằm", "Mì Ý xúc xích xông khói", "Pizza gà teriyaki", "Pizza phô mai"],
+    "Contact": "0824510046",
+    "Opened": "10:00",
+    "Closed": "22:00",
+    "Comment": ["Trưa nắng một mình k biết ăn gì nên mình lượn vòng để order đồ ăn. Thấy ở đây có combo giá khá vừa phải nên mình order combo 1 người ăn gồm 1 pizza hải sản, 1 gà lắc phô mai và 2 nước.", "Chủ nhật lười nấu ăn order cái pizza thập cẩm về cho 2 đứa nhỏ ăn đỡ nấu cơm, ui cái pizza 109 kgì mà chất lượng quá , topping ú nụ 🥰🥰🥰. Sẽ tiếp tục ủng hộ quán nha. Mình sẽ lần lượt thử hết món cải quán ha ha.", "trước đây mình đã ăn tại đây, hôm nay order lại thì nhận được " ,"hàng lỗi", "Bánh đi đường bánh, nhân đi đường nhân. Thịt mặn, đen thui như được xào đi xào lại rồi đổ lên đi ship, k dính tí phô mai nào. Ăn tới đâu là tức lộn gan lộn ruột tới đó", "Đặt 1 phần Salad cá ngừ nhưng chỉ có mỗi rau,với hộp đựng sốt trống không thì bảo ăn kiểu gì."]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g90/895806/prof/s640x400/foody-upload-api-foody-mobile-foody-mobile-662-jpg-190319105805.jpg",
+    "name": "Chú Trọc - Bánh Tráng Trộn",
+    "address": "Đối Diện 80 Phan Đăng Lưu, (Sát Trường THPT Nguyễn Hiền), Quận Hải Châu, Đà Nẵng",
+    "Rating": "6.9",
+    "menu": ["Bánh tráng trộn", "Bánh tráng bơ", "Gỏi xoài", "Gỏi gan", "Gỏi bò khô"],
+    "Contact": "0824510046",
+    "Opened": "15:00",
+    "Closed": "22:00",
+    "Comment": ["Tối tự nhiên thèm bánh tráng trộn nên order chú trọc về ăn. Chú này chiều thì hoạt động ở lê đình lý, tối chú lại xuống PĐL bán. Mình gọi 1 phần bánh tráng trộn 15k & gỏi xoài 15k. Đã dặn ít cay rồi mà vẫn còn nhiều ớt cay ghê, chắc lần sau dặn khổ bỏ ớt lun cho lành.", "Dở . Bánh cứng và khô . Ko gan , bò khô cay", "Chú khá thân thiện, làm siêu nhanh mà sạch sẽ nữa. Ngoài ra còn các loại bánh bơ, gỏi gan các kiểu cũng ngon lắm. Mọi người ủng hộ nhiều nha."]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g104/1031525/prof/s640x400/foody-upload-api-foody-mobile-e6ae2e0df439575e58cf-200622161026.jpg",
+    "name": "Quán Cháo Lòng Hà Nội - Bún Nem Đậu",
+    "address": "95 Nguyễn Tri Phương, Quận Hải Châu, Đà Nẵng",
+    "Rating": "",
+    "menu": ["Cháo lòng dồi Hà Nội", "Cháo lưỡi", "Bún lòng", "Cháo không", "Cháo tim cật"],
+    "Contact": "0824510046",
+    "Opened": "06:00",
+    "Closed": "22:00",
+    "Comment": [""]
+    },
+    {
+    "picture": "https://images.foody.vn/res/g79/784337/prof/s640x400/foody-upload-api-foody-mobile-jollibee-190111101206.jpg",
+    "name": "Jollibee - Tiểu La",
+    "address": "32 Tiểu La, Quận Hải Châu, Đà Nẵng",
+    "Rating": "",
+    "menu": ["combo 139k", "2 miếng gà rán", "4 miếng gà rán", "2 miếng gà sốt cay", "Mỳ Ý sốt bò bằm"],
+    "Contact": "0824510046",
+    "Opened": "09:00",
+    "Closed": "21:25",
+    "Comment": ["Tôi có đặt đồ ăn của Jollibee - 32 tiểu la - Đà Nẵng: món mì ý, nhưng mà khi giao lại giao món cơm với gà cay! Sau khi liên hệ tổng đài now thì bên jollibee gọi lại nhận lỗi giao sai đồ và bảo sẽ giao lại! Tuy nhiên từ lúc đó đến lúc tôi gọi lại 2 cuộc từ 12:16 --12:51 vẫn chưa có ai giao lại ( khoảng cách từ nhà tôi đến jollibee tiểu là chỉ hơn 1 km). Trong khi đã nói rất rõ đây là đồ ăn trưa cho trẻ 4 tuổi! Đề nghị jollibee sâu sắc xem lại dịch vụ của mình!!", "Jollibee phải ăn combo thì vừa rẻ vừa no. Giá gà lẻ khoảng 30 32k 1 miếng, rẻ hơn hẳn so với các thương hiệu fast food khác Gà sốt thì đậm mùi ớt tươi luôn ấy :)) Thích nhất ở Jollibee vẫn là khoai tây lắc và mì Ý, ngon hơn hẳn lotteria hay mấy hiệu tương tự. Khoai giòn, bột ngập tràn. Mì Ý cũng vậy, sốt rất nhiều, đậm đà, xúc xích phô mai các kiểu nữa. Bánh khoai môn ở Jollibee cũng ngon", "Bữa trc đi ăn thì hết chỗ lên tầng hai thấy hai chỗ hợp lý mà có ng ngồi rồi.Có 2 mẹ con ngồi chung bàn chung vs ông đó và con ổng.Rồi có bà cj nhân viên hỏi mik ngồi đây làm j thì mik nói em chờ chỗ thì bả cx ừ em ngồi đó chờ đi.Xong có bà đó và hai thằng con bả và ac em hay j ớ hỏi có bàn 4 ng ko em thì nv mới chỉ bàn mik đặt trc rồi cái ông ngồi ăn vs con ổng cx mời zô nhưng mik kà ng dành chỗ trc mak"]
+    }
+    ]
